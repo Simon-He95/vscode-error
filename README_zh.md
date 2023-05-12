@@ -5,6 +5,8 @@
 
 将js和ts中的错误有趣的显示
 
+![demo](assets/demo.gif)
+
 
 ## :coffee:
 
